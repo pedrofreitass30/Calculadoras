@@ -1,1 +1,1 @@
-Criando programas simples de soma para treinar.
+Criando programas simples para calcular.
